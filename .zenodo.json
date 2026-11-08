@@ -1,0 +1,9 @@
+{
+  "title": "Single and merged interplanetary coronal mass ejections at 1 au, 2011-2025: derived parameters and analysis scripts",
+  "upload_type": "dataset",
+  "description": "Derived parameters of 286 interplanetary coronal mass ejections (2011-2025) from the Richardson-Cane list, OMNI, ACE/EPAM and GOES data, Lundquist flux-rope fit parameters, example-event data, and the analysis scripts used in the manuscript 'Merged Coronal Mass Ejections at 1 au: Compression, Sublinear Magnetic Flux Addition, and No Excess Heating' submitted to Journal of Geophysical Research: Space Physics.",
+  "creators": [{"name": "Davydenkov, Igor I.", "affiliation": "Space Research Institute of the Russian Academy of Sciences (IKI RAS)", "orcid": "0009-0008-7369-5831"}],
+  "license": "cc-by-4.0",
+  "keywords": ["coronal mass ejections", "interplanetary coronal mass ejections", "CME interaction", "magnetic reconnection", "space weather"],
+  "access_right": "open"
+}
